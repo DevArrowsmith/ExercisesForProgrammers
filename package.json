@@ -1,0 +1,25 @@
+{
+  "name": "exercisesforprogrammers",
+  "version": "1.0.0",
+  "description": "Exercises from the book 'Exercises for Programmers' by Brian P. Hogan",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GummiCode/ExercisesForProgrammers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GummiCode/ExercisesForProgrammers/issues"
+  },
+  "homepage": "https://github.com/GummiCode/ExercisesForProgrammers#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
